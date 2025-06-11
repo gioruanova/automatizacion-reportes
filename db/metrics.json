@@ -1,0 +1,40 @@
+{
+    "reportes": [
+        {
+            "fecha": "2025-06-08",
+            "casos_trabajados": 120,
+            "casos_resueltos": 110,
+            "casos_pendientes": 10,
+            "tiempo_promedio_proceso_min": 14.2,
+            "tiempo_maximo_proceso_min": 38.5,
+            "eficiencia_porcentaje": 91.7,
+            "retrabajos": 3,
+            "errores_detectados": 2,
+            "tiempo_total_operativo_horas": 7.5
+        },
+        {
+            "fecha": "2025-06-09",
+            "casos_trabajados": 134,
+            "casos_resueltos": 129,
+            "casos_pendientes": 5,
+            "tiempo_promedio_proceso_min": 13.8,
+            "tiempo_maximo_proceso_min": 33.2,
+            "eficiencia_porcentaje": 96.2,
+            "retrabajos": 1,
+            "errores_detectados": 1,
+            "tiempo_total_operativo_horas": 8.0
+        },
+        {
+            "fecha": "2025-06-10",
+            "casos_trabajados": 127,
+            "casos_resueltos": 118,
+            "casos_pendientes": 9,
+            "tiempo_promedio_proceso_min": 15.0,
+            "tiempo_maximo_proceso_min": 42.7,
+            "eficiencia_porcentaje": 92.9,
+            "retrabajos": 4,
+            "errores_detectados": 3,
+            "tiempo_total_operativo_horas": 7.8
+        }
+    ]
+}
